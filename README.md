@@ -1,0 +1,2 @@
+# gista
+Git statistics generator
